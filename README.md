@@ -1,12 +1,11 @@
-#Gerador de Artes Barsotti
-Ano: 2017
-Linguagem: Java Processing
+## Gerador de Artes Barsotti <br/>
+Ano: 2017 <br/>
+Linguagem: Java Processing <br/>
 
-Juntando arte, design, matem·tica e programaÁ„o, o projeto final da disciplina Matem·tica Aplicada a MultimÌdia visa
-replicar as obras de um artista escolhido no meio digital.
+<p>Juntando arte, design, matem√°tica e programa√ß√£o, o projeto final da disciplina Matem√°tica Aplicada a Multim√≠dia visa
+replicar as obras de um artista escolhido no meio digital.<br/>
+Artista Escolhido: H√©rcules Barsotti.<br/> 
+S√©rie de obras: Proposi√ß√£o emblem√°tica, Plano Repartido. </p>
 
-Artista Escolhido: HÈrcules Barsotti.
-SÈrie de obras: ProposiÁ„o emblem·tica, Plano Repartido.
 
-
-Download da aplicaÁ„o: https://drive.google.com/drive/u/1/folders/15iXqsGOi2J_Gh8sP_bKqDR5muOf7YUI0
+<strong>Download da aplica√ß√£o:</strong> https://drive.google.com/drive/u/1/folders/15iXqsGOi2J_Gh8sP_bKqDR5muOf7YUI0
